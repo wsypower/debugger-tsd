@@ -1,0 +1,11 @@
+{
+  "name": "debugger-tsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "debugger"
+  ],
+  "author": "",
+  "license": "ISC"
+}
